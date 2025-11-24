@@ -4,6 +4,7 @@ Objective: The objective of this assessment is to evaluate the understanding and
 Dataset: Iris dataset available in the sklearn library.
 
 Key components fulfilled:
+
 Loading and Preprocessing
 ● Loaded and preprocessed the Iris dataset from sklearn.
 ● Dropped the species column since this is a clustering problem.
